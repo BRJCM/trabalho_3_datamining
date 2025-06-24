@@ -1,0 +1,6 @@
+--- Relatório de Avaliação MVP (Estimado) ---
+Nota: Esta é uma avaliação interna simplificada, pois não temos um arquivo 'resposta' real para comparação direta aqui.
+Os erros são calculados comparando a previsão com o ponto histórico mais próximo ou estimado na janela de dados.
+
+Nenhuma previsão de posição para avaliar.
+Nenhuma previsão de tempo para avaliar.
